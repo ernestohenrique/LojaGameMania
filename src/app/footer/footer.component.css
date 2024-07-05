@@ -1,0 +1,9 @@
+/* Estilo do footer */
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  padding-top: 10px;
+}
